@@ -1,0 +1,462 @@
+[
+  {
+    "id": "sec-abstract",
+    "title": "摘要",
+    "depth": 0
+  },
+  {
+    "id": "sec-1",
+    "title": "一、结论总结",
+    "depth": 0
+  },
+  {
+    "id": "sec-1-1",
+    "title": "（一）本模型的核心定义：三轴本体模型而非多轴量表",
+    "depth": 1
+  },
+  {
+    "id": "sec-1-2",
+    "title": "（二）三大本体轴最精简描述",
+    "depth": 1
+  },
+  {
+    "id": "sec-1-3",
+    "title": "（三）三大本体轴的展开描述",
+    "depth": 1
+  },
+  {
+    "id": "sec-1-4",
+    "title": "（四）左右程度描述与分值",
+    "depth": 1
+  },
+  {
+    "id": "sec-1-5",
+    "title": "（五）左右判定总表",
+    "depth": 1
+  },
+  {
+    "id": "sec-1-6",
+    "title": "（六）左右判定口诀",
+    "depth": 1
+  },
+  {
+    "id": "sec-1-7",
+    "title": "（七）覆盖变量及其与主轴的关系",
+    "depth": 1
+  },
+  {
+    "id": "sec-1-8",
+    "title": "（八）本模型的构造方法",
+    "depth": 1
+  },
+  {
+    "id": "sec-1-9",
+    "title": "（九）制度稳定域：三轴低风险区的交集",
+    "depth": 1
+  },
+  {
+    "id": "sec-1-10",
+    "title": "（十）创新价值：对既有左右模型的超越之处",
+    "depth": 1
+  },
+  {
+    "id": "sec-2",
+    "title": "二、问题背景",
+    "depth": 0
+  },
+  {
+    "id": "sec-2-1",
+    "title": "（一）困境的最小定义：同一标签的双重用途",
+    "depth": 1
+  },
+  {
+    "id": "sec-2-2",
+    "title": "（二）1789：法国大革命语境中的“左右”——等级合法性 vs 法律平等",
+    "depth": 1
+  },
+  {
+    "id": "sec-2-3",
+    "title": "（三）19世纪：工业化与“社会问题”——阶级、分配与产权进入中心舞台",
+    "depth": 1
+  },
+  {
+    "id": "sec-2-4",
+    "title": "（四）20世纪上半叶：总体动员与极端经验——“左右”从议会语义走向阵营语义",
+    "depth": 1
+  },
+  {
+    "id": "sec-2-5",
+    "title": "（五）冷战：全球二分如何压缩“左右”语义",
+    "depth": 1
+  },
+  {
+    "id": "sec-2-6",
+    "title": "（六）冷战后：议题扩展与“左右塞满”——民族、文化、身份、环境进入同一容器",
+    "depth": 1
+  },
+  {
+    "id": "sec-2-7",
+    "title": "（七）既有左右解释框架：主要类型与困境",
+    "depth": 1
+  },
+  {
+    "id": "sec-2-8",
+    "title": "（八）本章小结：概念困境的三条结构原因",
+    "depth": 1
+  },
+  {
+    "id": "sec-3",
+    "title": "三、三大主轴",
+    "depth": 0
+  },
+  {
+    "id": "sec-3-1",
+    "title": "（一）经济秩序轴（Economic Order Axis）：从“经济变量”到第一条主轴",
+    "depth": 1
+  },
+  {
+    "id": "sec-3-2",
+    "title": "（二）自由边界轴（Liberty Boundary Axis）：为什么经济秩序轴不够",
+    "depth": 1
+  },
+  {
+    "id": "sec-3-3",
+    "title": "（三）权利本体轴（Rights Ontology Axis）：为何在当代变得如此重要？",
+    "depth": 1
+  },
+  {
+    "id": "sec-3-4",
+    "title": "（四）制度稳定域（Institutional Stability Domain）",
+    "depth": 1
+  },
+  {
+    "id": "sec-3-5",
+    "title": "（五）三轴之间的独立性与不可化约性",
+    "depth": 1
+  },
+  {
+    "id": "sec-4",
+    "title": "四、覆盖变量",
+    "depth": 0
+  },
+  {
+    "id": "sec-4-1",
+    "title": "（一）覆盖变量的定义与判准",
+    "depth": 1
+  },
+  {
+    "id": "sec-4-2",
+    "title": "（二）常见覆盖变量类型",
+    "depth": 1
+  },
+  {
+    "id": "sec-4-3",
+    "title": "（三）为什么覆盖变量不应作为主轴或主轴的子轴",
+    "depth": 1
+  },
+  {
+    "id": "sec-4-4",
+    "title": "（四）判断覆盖变量是否改变三轴定位的标准",
+    "depth": 1
+  },
+  {
+    "id": "sec-5",
+    "title": "五、背景条件与认知透镜",
+    "depth": 0
+  },
+  {
+    "id": "sec-5-1",
+    "title": "（一）背景条件",
+    "depth": 1
+  },
+  {
+    "id": "sec-5-2",
+    "title": "（二）认知透镜（Cognitive Lens）",
+    "depth": 1
+  },
+  {
+    "id": "sec-5-3",
+    "title": "（三）批判种族理论（Critical Race Theory; CRT）",
+    "depth": 1
+  },
+  {
+    "id": "sec-6",
+    "title": "六、经典意识形态分析",
+    "depth": 0
+  },
+  {
+    "id": "sec-6-1",
+    "title": "（一）分析原则：理想型定位与“主义”作为被定位对象",
+    "depth": 1
+  },
+  {
+    "id": "sec-6-2",
+    "title": "（二）经典意识形态三轴对比表",
+    "depth": 1
+  },
+  {
+    "id": "sec-6-3",
+    "title": "（三）无政府主义（Anarchism）",
+    "depth": 1
+  },
+  {
+    "id": "sec-6-4",
+    "title": "（四）共产主义（Communism）",
+    "depth": 1
+  },
+  {
+    "id": "sec-6-5",
+    "title": "（五）社会主义（Socialism）",
+    "depth": 1
+  },
+  {
+    "id": "sec-6-6",
+    "title": "（六）民主社会主义（Democratic Socialism）",
+    "depth": 1
+  },
+  {
+    "id": "sec-6-7",
+    "title": "（七）社会民主主义（Social Democracy）",
+    "depth": 1
+  },
+  {
+    "id": "sec-6-8",
+    "title": "（八）社群主义（Communitarianism）",
+    "depth": 1
+  },
+  {
+    "id": "sec-6-9",
+    "title": "（九）自由主义（Liberalism）",
+    "depth": 1
+  },
+  {
+    "id": "sec-6-10",
+    "title": "（十）自由意志主义（Libertarianism）",
+    "depth": 1
+  },
+  {
+    "id": "sec-6-11",
+    "title": "（十一）资本主义（Capitalism）",
+    "depth": 1
+  },
+  {
+    "id": "sec-6-12",
+    "title": "（十二）新自由主义（Neoliberalism）",
+    "depth": 1
+  },
+  {
+    "id": "sec-6-13",
+    "title": "（十三）保守主义（Conservatism）：作为跨轴标签的处理方式",
+    "depth": 1
+  },
+  {
+    "id": "sec-6-14",
+    "title": "（十四）法西斯主义（Fascism）",
+    "depth": 1
+  },
+  {
+    "id": "sec-6-15",
+    "title": "（十五）纳粹主义（Nazism）：纳粹的“极右”标签",
+    "depth": 1
+  },
+  {
+    "id": "sec-7",
+    "title": "七、当代意识形态分析",
+    "depth": 0
+  },
+  {
+    "id": "sec-7-1",
+    "title": "（一）觉醒主义（Wokeism）",
+    "depth": 1
+  },
+  {
+    "id": "sec-7-2",
+    "title": "（二）当代反种族主义（Structural Antiracism）",
+    "depth": 1
+  },
+  {
+    "id": "sec-7-3",
+    "title": "（三）当代女权主义（Feminism）",
+    "depth": 1
+  },
+  {
+    "id": "sec-7-4",
+    "title": "（四）性别政治（Gender Politics；常见于 LGBTQ 语境）",
+    "depth": 1
+  },
+  {
+    "id": "sec-7-5",
+    "title": "（五）反殖民主义（Anti-colonialism；当代觉醒主义语境）",
+    "depth": 1
+  },
+  {
+    "id": "sec-7-6",
+    "title": "（六）环保主义（Environmentalism）",
+    "depth": 1
+  },
+  {
+    "id": "sec-7-7",
+    "title": "（七）动物保护主义 vs 人类中心主义（Animal Protectionism vs Anthropocentrism）",
+    "depth": 1
+  },
+  {
+    "id": "sec-7-8",
+    "title": "（八）犹太复国主义（Zionism）",
+    "depth": 1
+  },
+  {
+    "id": "sec-8",
+    "title": "八、覆盖变量分析",
+    "depth": 0
+  },
+  {
+    "id": "sec-8-1",
+    "title": "（一）制度形式型：直接民主 vs 代议制 （Direct Democracy vs Representative Democracy）",
+    "depth": 1
+  },
+  {
+    "id": "sec-8-2",
+    "title": "（二）政治共同体边界：民族主义 vs 国际主义（Nationalism vs Internationalism）",
+    "depth": 1
+  },
+  {
+    "id": "sec-8-3",
+    "title": "（三）政治动员的正当性叙事：民粹、精英主义与绩优主义（Populism, Elitism, and Meritocracy）",
+    "depth": 1
+  },
+  {
+    "id": "sec-8-4",
+    "title": "（四）敌意叙事与替罪机制：反犹主义（Antisemitism）",
+    "depth": 1
+  },
+  {
+    "id": "sec-8-5",
+    "title": "（五）规范执行的非国家化：政治正确（Political Correctness）",
+    "depth": 1
+  },
+  {
+    "id": "sec-8-6",
+    "title": "（六）后果兑现机制：取消文化（Cancel Culture）",
+    "depth": 1
+  },
+  {
+    "id": "sec-8-7",
+    "title": "（七）身份动员与权利结构重组：身份政治（Identity Politics）",
+    "depth": 1
+  },
+  {
+    "id": "sec-8-8",
+    "title": "（八）制度化纠偏工程：多元、公平与包容（Diversity Equity and Inclusion; DEI）",
+    "depth": 1
+  },
+  {
+    "id": "sec-8-9",
+    "title": "（九）多重覆盖变量叠加的现实冲突：巴以冲突（Israel–Palestine Conflict）",
+    "depth": 1
+  },
+  {
+    "id": "sec-9",
+    "title": "九、典型动议分析",
+    "depth": 0
+  },
+  {
+    "id": "sec-9-1",
+    "title": "（一）要求在公共健康风险下实施强制性卫生措施",
+    "depth": 1
+  },
+  {
+    "id": "sec-9-2",
+    "title": "（二）要求以公共安全为由扩大常态化监控权限",
+    "depth": 1
+  },
+  {
+    "id": "sec-9-3",
+    "title": "（三）要求平台对高风险内容承担主动下架与封禁责任",
+    "depth": 1
+  },
+  {
+    "id": "sec-9-4",
+    "title": "（四）要求通过强化警务与刑罚换取更高社会秩序的动议",
+    "depth": 1
+  },
+  {
+    "id": "sec-9-5",
+    "title": "（五）承认胎儿为权利主体并限制终止妊娠",
+    "depth": 1
+  },
+  {
+    "id": "sec-9-6",
+    "title": "（六）允许在特定条件下实施安乐死",
+    "depth": 1
+  },
+  {
+    "id": "sec-9-7",
+    "title": "（七）废除死刑以绝对化生命权制度边界的动议",
+    "depth": 1
+  },
+  {
+    "id": "sec-9-8",
+    "title": "（八）要求通过扩大枪支管制强化国家暴力垄断",
+    "depth": 1
+  },
+  {
+    "id": "sec-9-9",
+    "title": "（九）将毒品治理从刑事惩罚转向公共卫生治理",
+    "depth": 1
+  },
+  {
+    "id": "sec-9-10",
+    "title": "（十）将性工作从刑事化管理转向合法化或去罪化治理",
+    "depth": 1
+  },
+  {
+    "id": "sec-10",
+    "title": "十、应用与延展",
+    "depth": 0
+  },
+  {
+    "id": "sec-10-1",
+    "title": "（一）作为公共讨论的“拆题语言”：先分轴，再讨论",
+    "depth": 1
+  },
+  {
+    "id": "sec-10-2",
+    "title": "（二）作为学术研究的编码框架：把论证结构映射到三轴",
+    "depth": 1
+  },
+  {
+    "id": "sec-10-3",
+    "title": "（三）作为比较政治与历史叙事的坐标：让“同名标签”可比",
+    "depth": 1
+  },
+  {
+    "id": "sec-10-4",
+    "title": "（四）作为组织治理与制度分析工具：把冲突拆成“秩序 / 边界 / 本体”",
+    "depth": 1
+  },
+  {
+    "id": "sec-10-5",
+    "title": "（五）延展方向一：从静态定位到动态轨迹（Trajectories）",
+    "depth": 1
+  },
+  {
+    "id": "sec-10-6",
+    "title": "（六）延展方向二：操作化与经验研究（Operationalization）",
+    "depth": 1
+  },
+  {
+    "id": "sec-appendix",
+    "title": "附录",
+    "depth": 0
+  },
+  {
+    "id": "sec-appendix-1",
+    "title": "（一）术语对照表",
+    "depth": 1
+  },
+  {
+    "id": "sec-appendix-2",
+    "title": "（二）常见误解澄清",
+    "depth": 1
+  }
+]

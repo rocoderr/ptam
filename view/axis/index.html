@@ -1,0 +1,78 @@
+<!doctype html>
+<html lang="zh">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>3D Viewer · Political Triple-Axis Model</title>
+    <link rel="stylesheet" href="../assets/site.css" />
+  </head>
+  <body data-base="../" class="has-fixed-frame">
+    <header class="site-header">
+      <div class="site-header__left">
+        <a href="../index.html" class="site-header__title-link">政治三轴模型</a>
+      </div>
+      <nav class="site-header__nav">
+        <a href="../zh/index.html">中文阅读</a>
+        <a href="../en/index.html">英文阅读</a>
+        <a href="../axis/index.html" class="is-active">3D 图形展示</a>
+      </nav>
+    </header>
+
+    <div class="axis-app">
+      <div class="axis-body">
+        <main class="axis-canvas-wrap">
+          <canvas id="axis-canvas"></canvas>
+          <div class="axis-toolbar">
+            <button id="btn-reset" type="button">回到初始视角</button>
+          </div>
+          <div id="axis-notice" class="axis-notice" hidden></div>
+        </main>
+
+        <aside class="axis-panel" id="axis-panel">
+          <div class="axis-panel__section">
+            <div class="axis-panel__title">意识形态（Ideologies）</div>
+            <div class="axis-panel__actions">
+              <button id="btn-all" type="button">全选</button>
+              <button id="btn-none" type="button">清空</button>
+            </div>
+            <div id="ideology-list" class="axis-list"></div>
+          </div>
+
+          <div class="axis-panel__section">
+            <div class="axis-panel__title">信息</div>
+            <div id="ideology-detail" class="axis-detail">点击色块查看详情</div>
+          </div>
+        </aside>
+      </div>
+    </div>
+
+    <footer class="site-footer">
+      <div class="site-footer__text">Copyright 2024 Political Triple-Axis Model</div>
+    </footer>
+
+    <script>
+      (() => {
+        const header = document.querySelector(".site-header");
+        const footer = document.querySelector(".site-footer");
+        if (!header || !footer) return;
+        const setVars = () => {
+          document.documentElement.style.setProperty(
+            "--site-header-height",
+            `${Math.ceil(header.getBoundingClientRect().height)}px`
+          );
+          document.documentElement.style.setProperty(
+            "--site-footer-height",
+            `${Math.ceil(footer.getBoundingClientRect().height)}px`
+          );
+        };
+        setVars();
+        if ("ResizeObserver" in window) {
+          const ro = new ResizeObserver(setVars);
+          ro.observe(header);
+          ro.observe(footer);
+        }
+      })();
+    </script>
+    <script type="module" src="../assets/axis.js"></script>
+  </body>
+</html>

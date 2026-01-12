@@ -1,0 +1,7 @@
+.DS_Store
+.vscode/
+.env
+book/
+temp
+*.log
+node_modules

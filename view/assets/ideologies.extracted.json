@@ -1,0 +1,618 @@
+[
+  {
+    "id": "capitalism",
+    "name": {
+      "zh": "资本主义",
+      "en": "Capitalism"
+    },
+    "raw": {
+      "x": "强右（+3）：私有产权与市场配置优先",
+      "y": "不必然，常见中性到右（0～+2）",
+      "z": "不必然，常见中性到右（0～+2）",
+      "overlay": "民族主义 / 国际主义（Nationalism / Internationalism）；宗教传统 / 世俗化（Religion / Secularization）"
+    },
+    "range": {
+      "x": [
+        3,
+        3
+      ],
+      "y": [
+        0,
+        2
+      ],
+      "z": [
+        0,
+        2
+      ]
+    },
+    "group": "classic"
+  },
+  {
+    "id": "socialism",
+    "name": {
+      "zh": "社会主义",
+      "en": "Socialism"
+    },
+    "raw": {
+      "x": "强左（−3）：公有/强公共协调与再分配优先",
+      "y": "不必然，常见中性到左（0～−2）",
+      "z": "左（−2）：更常诉诸制度性权利（Institutional Rights）",
+      "overlay": "民族主义 / 国际主义（Nationalism / Internationalism）；革命 / 改良（Revolution / Reform）"
+    },
+    "range": {
+      "x": [
+        -3,
+        -3
+      ],
+      "y": [
+        0,
+        -2
+      ],
+      "z": [
+        -2,
+        -2
+      ]
+    },
+    "group": "classic"
+  },
+  {
+    "id": "anarchism",
+    "name": {
+      "zh": "无政府主义",
+      "en": "Anarchism"
+    },
+    "raw": {
+      "x": "左（−2）：去国家化的自愿协作、公社/互助组织",
+      "y": "极右（+4）：反对国家垄断强制，强调自治",
+      "z": "不必然，分叉明显（−2～+3）：自然权利（Natural Rights）/制度性权利（Institutional Rights）并存",
+      "overlay": "革命 / 改良（Revolution / Reform）；社会工程 / 自生秩序（Social Engineering / Spontaneous Order）"
+    },
+    "range": {
+      "x": [
+        -2,
+        -2
+      ],
+      "y": [
+        4,
+        4
+      ],
+      "z": [
+        -2,
+        3
+      ]
+    },
+    "group": "classic"
+  },
+  {
+    "id": "communism",
+    "name": {
+      "zh": "共产主义",
+      "en": "Communism"
+    },
+    "raw": {
+      "x": "极左（−4）：集中计划/公有",
+      "y": "极左（−4）：强制边界高度扩张",
+      "z": "极左（−4）：权利高度制度化",
+      "overlay": "革命 / 改良（Revolution / Reform）；国际主义 / 民族主义（Internationalism / Nationalism）"
+    },
+    "range": {
+      "x": [
+        -4,
+        -4
+      ],
+      "y": [
+        -4,
+        -4
+      ],
+      "z": [
+        -4,
+        -4
+      ]
+    },
+    "group": "classic"
+  },
+  {
+    "id": "social-democracy",
+    "name": {
+      "zh": "社会民主主义",
+      "en": "Social Democracy"
+    },
+    "raw": {
+      "x": "轻左到中性（−1～0）：混合经济",
+      "y": "中性（0）：程序化限定强制",
+      "z": "中性（0）：先在边界 + 制度性权利并存",
+      "overlay": "变革 / 稳定（Change / Stability）；民粹 / 精英（Populism / Elitism）"
+    },
+    "range": {
+      "x": [
+        -1,
+        0
+      ],
+      "y": [
+        0,
+        0
+      ],
+      "z": [
+        0,
+        0
+      ]
+    },
+    "group": "classic"
+  },
+  {
+    "id": "democratic-socialism",
+    "name": {
+      "zh": "民主社会主义",
+      "en": "Democratic Socialism"
+    },
+    "raw": {
+      "x": "左到强左（−2～−3）：更强公共所有与再分配",
+      "y": "中性（0）：强调程序与可撤回性",
+      "z": "轻左到中性（−1～0）：偏制度建构",
+      "overlay": "革命 / 改良（Revolution / Reform）；民粹 / 精英（Populism / Elitism）"
+    },
+    "range": {
+      "x": [
+        -2,
+        -3
+      ],
+      "y": [
+        0,
+        0
+      ],
+      "z": [
+        -1,
+        0
+      ]
+    },
+    "group": "classic"
+  },
+  {
+    "id": "communitarianism",
+    "name": {
+      "zh": "社群主义",
+      "en": "Communitarianism"
+    },
+    "raw": {
+      "x": "中性（0）：经济秩序不是主轴",
+      "y": "轻左到左（−1～−2）：共同体秩序优先",
+      "z": "轻左到左（−1～−2）：权利嵌入共同体",
+      "overlay": "宗教传统 / 世俗化（Religion / Secularization）；同化主义 / 多元文化（Assimilationism / Multiculturalism）"
+    },
+    "range": {
+      "x": [
+        0,
+        0
+      ],
+      "y": [
+        -1,
+        -2
+      ],
+      "z": [
+        -1,
+        -2
+      ]
+    },
+    "group": "classic"
+  },
+  {
+    "id": "liberalism",
+    "name": {
+      "zh": "自由主义",
+      "en": "Liberalism"
+    },
+    "raw": {
+      "x": "不必然，常见中性到右（0～+2）",
+      "y": "右到强右（+2～+3）：自由优先",
+      "z": "右到强右（+2～+3）：更倾向自然权利（Natural Rights）",
+      "overlay": "民族主义 / 国际主义（Nationalism / Internationalism）；世俗 / 宗教（Secular / Religious）"
+    },
+    "range": {
+      "x": [
+        0,
+        2
+      ],
+      "y": [
+        2,
+        3
+      ],
+      "z": [
+        2,
+        3
+      ]
+    },
+    "group": "classic"
+  },
+  {
+    "id": "libertarianism",
+    "name": {
+      "zh": "自由意志主义",
+      "en": "Libertarianism"
+    },
+    "raw": {
+      "x": "强右（+3）：私有产权/市场配置优先",
+      "y": "极右（+4）：尽量收缩公共强制边界",
+      "z": "极右（+4）：自我所有与非侵害原则（Natural Rights）",
+      "overlay": "世俗 / 宗教（Secular / Religious）；孤立主义 / 国际主义（Isolationism / Internationalism）"
+    },
+    "range": {
+      "x": [
+        3,
+        3
+      ],
+      "y": [
+        4,
+        4
+      ],
+      "z": [
+        4,
+        4
+      ]
+    },
+    "group": "classic"
+  },
+  {
+    "id": "neoliberalism",
+    "name": {
+      "zh": "新自由主义",
+      "en": "Neoliberalism"
+    },
+    "raw": {
+      "x": "强右（+3）：市场化/放松管制",
+      "y": "不必然，常见中性到右（0～+2）",
+      "z": "右（+2）：契约/财产权优先",
+      "overlay": "自由贸易 / 保护主义（Free Trade / Protectionism）；国际主义 / 民族主义（Internationalism / Nationalism）"
+    },
+    "range": {
+      "x": [
+        3,
+        3
+      ],
+      "y": [
+        0,
+        2
+      ],
+      "z": [
+        2,
+        2
+      ]
+    },
+    "group": "classic"
+  },
+  {
+    "id": "conservatism",
+    "name": {
+      "zh": "保守主义",
+      "en": "Conservatism"
+    },
+    "raw": {
+      "x": "不必然，常见中性到右（0～+2）",
+      "y": "不必然，常见中性到左（0～−2）",
+      "z": "轻右到右（+1～+2）：更强调先在边界与自然秩序",
+      "overlay": "宗教传统 / 世俗化（Religion / Secularization）；变革 / 稳定（Change / Stability）"
+    },
+    "range": {
+      "x": [
+        0,
+        2
+      ],
+      "y": [
+        0,
+        -2
+      ],
+      "z": [
+        1,
+        2
+      ]
+    },
+    "group": "classic"
+  },
+  {
+    "id": "fascism",
+    "name": {
+      "zh": "法西斯主义",
+      "en": "Fascism"
+    },
+    "raw": {
+      "x": "中性到左（0～−2）：市场工具化（Instrumentalized Market）",
+      "y": "极左（−4）：秩序与动员优先",
+      "z": "极左（−4）：权利从属共同体",
+      "overlay": "民族主义 / 国际主义（Nationalism / Internationalism）；集权或极权 / 民主制衡（Centralization or Totalitarianism / Democratic Checks and Balances）"
+    },
+    "range": {
+      "x": [
+        0,
+        -2
+      ],
+      "y": [
+        -4,
+        -4
+      ],
+      "z": [
+        -4,
+        -4
+      ]
+    },
+    "group": "classic"
+  },
+  {
+    "id": "nazism",
+    "name": {
+      "zh": "纳粹主义",
+      "en": "Nazism"
+    },
+    "raw": {
+      "x": "中性到左（0～−2）：市场工具化（Instrumentalized Market）",
+      "y": "极左（−4）：极权化强制",
+      "z": "极左（−4）：权利主体被重写",
+      "overlay": "民族主义 / 国际主义（Nationalism / Internationalism）；集权或极权 / 民主制衡（Centralization or Totalitarianism / Democratic Checks and Balances）"
+    },
+    "range": {
+      "x": [
+        0,
+        -2
+      ],
+      "y": [
+        -4,
+        -4
+      ],
+      "z": [
+        -4,
+        -4
+      ]
+    },
+    "group": "classic"
+  },
+  {
+    "id": "wokeism",
+    "name": {
+      "zh": "觉醒主义",
+      "en": "Wokeism"
+    },
+    "raw": {
+      "x": "不稳定，更多是工具（−1～+1）",
+      "y": "中性到左（0～−2）：拒绝空间收缩与非国家强制",
+      "z": "强左（−3）：身份直接生成权利边界",
+      "overlay": "压迫者—被压迫者透镜（Oppressor–Oppressed Lens）；取消文化（Cancel Culture）"
+    },
+    "range": {
+      "x": [
+        -1,
+        1
+      ],
+      "y": [
+        0,
+        -2
+      ],
+      "z": [
+        -3,
+        -3
+      ]
+    },
+    "group": "contemporary"
+  },
+  {
+    "id": "structural-antiracism",
+    "name": {
+      "zh": "当代反种族主义",
+      "en": "Structural Antiracism"
+    },
+    "raw": {
+      "x": "中性到左（0～−2）：配额/补偿等工具性再分配",
+      "y": "中性到左（0～−2）：质疑更易被视为伤害",
+      "z": "左（−2）：群体历史处境生成权利边界",
+      "overlay": "压迫者—被压迫者透镜（Oppressor–Oppressed Lens）；取消文化（Cancel Culture）"
+    },
+    "range": {
+      "x": [
+        0,
+        -2
+      ],
+      "y": [
+        0,
+        -2
+      ],
+      "z": [
+        -2,
+        -2
+      ]
+    },
+    "group": "contemporary"
+  },
+  {
+    "id": "feminism",
+    "name": {
+      "zh": "当代女权主义",
+      "en": "Feminism"
+    },
+    "raw": {
+      "x": "分叉明显（+1～−2）：规则内平权 vs 结构纠偏",
+      "y": "分叉明显（+1～−2）：拒绝空间是否被压缩",
+      "z": "分叉明显（+1～−3）：权利是否由身份直接生成",
+      "overlay": "觉醒主义化（Wokeism）；取消文化（Cancel Culture）"
+    },
+    "range": {
+      "x": [
+        1,
+        -2
+      ],
+      "y": [
+        1,
+        -2
+      ],
+      "z": [
+        1,
+        -3
+      ]
+    },
+    "group": "contemporary"
+  },
+  {
+    "id": "gender-politics",
+    "name": {
+      "zh": "性别政治",
+      "en": "Gender Politics"
+    },
+    "raw": {
+      "x": "被动向左（0～−2）：制度执行成本牵引",
+      "y": "中性到左（0～−3）：拒绝空间按路径收缩",
+      "z": "左到极左（−2～−4）：性别认同成为权利边界",
+      "overlay": "性别自我认同（Gender Self-identification）；取消文化（Cancel Culture）"
+    },
+    "range": {
+      "x": [
+        0,
+        -2
+      ],
+      "y": [
+        0,
+        -3
+      ],
+      "z": [
+        -2,
+        -4
+      ]
+    },
+    "group": "contemporary"
+  },
+  {
+    "id": "anti-colonialism",
+    "name": {
+      "zh": "反殖民主义",
+      "en": "Anti-colonialism"
+    },
+    "raw": {
+      "x": "中性到强左（0～−3）：补偿与再分配义务",
+      "y": "中性到左（0～−2）：责任拒绝被道德化",
+      "z": "中性到左（0～−3）：历史处境生成当代权利",
+      "overlay": "压迫者—被压迫者透镜（Oppressor–Oppressed Lens）；取消文化（Cancel Culture）"
+    },
+    "range": {
+      "x": [
+        0,
+        -3
+      ],
+      "y": [
+        0,
+        -2
+      ],
+      "z": [
+        0,
+        -3
+      ]
+    },
+    "group": "contemporary"
+  },
+  {
+    "id": "environmentalism",
+    "name": {
+      "zh": "环保主义",
+      "en": "Environmentalism"
+    },
+    "raw": {
+      "x": "右到强左（+2.5～−4）：市场型到治理型路径",
+      "y": "右到强左（+2～−4）：低强制到高强制",
+      "z": "右到左（+3～−3）：政策目标 vs 环境高阶权利",
+      "overlay": "技术条件与产业结构（Technological Conditions & Industrial Structure）；危机叙事（Crisis Narrative）"
+    },
+    "range": {
+      "x": [
+        2.5,
+        -4
+      ],
+      "y": [
+        2,
+        -4
+      ],
+      "z": [
+        3,
+        -3
+      ]
+    },
+    "group": "contemporary"
+  },
+  {
+    "id": "animal-protectionism",
+    "name": {
+      "zh": "动物保护主义",
+      "en": "Animal Protectionism"
+    },
+    "raw": {
+      "x": "中性到左（0～−2）：成本正当性被压缩",
+      "y": "中性到左（0～−3）：生活方式与科研被强制",
+      "z": "右到左（+3～−3）：福利→准权利→动物权利",
+      "overlay": "权利主体扩展（Expanded Rights Subject）"
+    },
+    "range": {
+      "x": [
+        0,
+        -2
+      ],
+      "y": [
+        0,
+        -3
+      ],
+      "z": [
+        3,
+        -3
+      ]
+    },
+    "group": "contemporary"
+  },
+  {
+    "id": "anthropocentrism",
+    "name": {
+      "zh": "人类中心主义",
+      "en": "Anthropocentrism"
+    },
+    "raw": {
+      "x": "中性（0）：不构成经济秩序主张",
+      "y": "中性（0）：不主张压缩自由边界",
+      "z": "右（+2～+3）：权利主体限于人",
+      "overlay": "制度可裁决性（Adjudicability）"
+    },
+    "range": {
+      "x": [
+        0,
+        0
+      ],
+      "y": [
+        0,
+        0
+      ],
+      "z": [
+        2,
+        3
+      ]
+    },
+    "group": "contemporary"
+  },
+  {
+    "id": "zionism",
+    "name": {
+      "zh": "犹太复国主义",
+      "en": "Zionism"
+    },
+    "raw": {
+      "x": "不必然，分叉明显（+1～−1）：可与社民或市场结合",
+      "y": "中性到左（0～−2）：安全优先时收缩自由边界",
+      "z": "右（+2～+3）：权利通过国家承载",
+      "overlay": "民族主义 / 国际主义（Nationalism / Internationalism）；安全风险（Security Risks）"
+    },
+    "range": {
+      "x": [
+        1,
+        -1
+      ],
+      "y": [
+        0,
+        -2
+      ],
+      "z": [
+        2,
+        3
+      ]
+    },
+    "group": "contemporary"
+  }
+]

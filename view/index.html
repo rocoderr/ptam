@@ -1,0 +1,77 @@
+<!doctype html>
+<html lang="zh">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Political Triple-Axis Model</title>
+    <link rel="stylesheet" href="assets/site.css" />
+  </head>
+  <body data-base="" class="has-fixed-frame">
+    <header class="site-header">
+      <div class="site-header__left">
+        <div class="site-header__title-cn">政治三轴模型</div>
+        <div class="site-header__title-en">Political Triple-Axis Model</div>
+      </div>
+      <nav class="site-header__nav">
+        <a href="zh/index.html">中文阅读</a>
+        <a href="en/index.html">英文阅读</a>
+        <a href="axis/index.html">3D 图形展示</a>
+      </nav>
+    </header>
+
+    <main class="home">
+      <div class="home__inner">
+        <header class="home__title">
+          <div class="home__title-cn">政治三轴模型</div>
+          <div class="home__title-en">Political Triple-Axis Model</div>
+        </header>
+        <p class="home__subtitle">请选择阅读版本或进入 3D 交互空间。</p>
+        <section class="home__cards">
+          <a class="home-card" href="zh/index.html">
+            <span class="home-card__icon" aria-hidden="true">📘</span>
+            <span class="home-card__title">中文正文</span>
+            <span class="home-card__meta">Chinese Edition</span>
+          </a>
+          <a class="home-card" href="en/index.html">
+            <span class="home-card__icon" aria-hidden="true">🌍</span>
+            <span class="home-card__title">English Edition</span>
+            <span class="home-card__meta">Full English Text</span>
+          </a>
+          <a class="home-card" href="axis/index.html">
+            <span class="home-card__icon" aria-hidden="true">🧭</span>
+            <span class="home-card__title">3D 三轴空间</span>
+            <span class="home-card__meta">Interactive Axis Viewer</span>
+          </a>
+        </section>
+      </div>
+    </main>
+
+    <footer class="site-footer">
+      <div class="site-footer__text">Copyright 2024 Political Triple-Axis Model</div>
+    </footer>
+
+    <script>
+      (() => {
+        const header = document.querySelector(".site-header");
+        const footer = document.querySelector(".site-footer");
+        if (!header || !footer) return;
+        const setVars = () => {
+          document.documentElement.style.setProperty(
+            "--site-header-height",
+            `${Math.ceil(header.getBoundingClientRect().height)}px`
+          );
+          document.documentElement.style.setProperty(
+            "--site-footer-height",
+            `${Math.ceil(footer.getBoundingClientRect().height)}px`
+          );
+        };
+        setVars();
+        if ("ResizeObserver" in window) {
+          const ro = new ResizeObserver(setVars);
+          ro.observe(header);
+          ro.observe(footer);
+        }
+      })();
+    </script>
+  </body>
+</html>

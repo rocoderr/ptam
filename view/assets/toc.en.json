@@ -1,0 +1,462 @@
+[
+  {
+    "id": "sec-abstract",
+    "title": "Abstract",
+    "depth": 0
+  },
+  {
+    "id": "sec-1",
+    "title": "I. Summary of Conclusions",
+    "depth": 0
+  },
+  {
+    "id": "sec-1-1",
+    "title": "1. Core Definition: A Three-Axis Ontological Model, Not a Multi-Axis Scale",
+    "depth": 1
+  },
+  {
+    "id": "sec-1-2",
+    "title": "2. The Most Minimal Description of the Three Ontological Axes",
+    "depth": 1
+  },
+  {
+    "id": "sec-1-3",
+    "title": "3. Expanded Descriptions of the Three Ontological Axes",
+    "depth": 1
+  },
+  {
+    "id": "sec-1-4",
+    "title": "4. Descriptors and Scores for Left–Right Intensity",
+    "depth": 1
+  },
+  {
+    "id": "sec-1-5",
+    "title": "5. A Summary Table for Left–Right Classification",
+    "depth": 1
+  },
+  {
+    "id": "sec-1-6",
+    "title": "6. Mnemonics for Quick Classification",
+    "depth": 1
+  },
+  {
+    "id": "sec-1-7",
+    "title": "7. Overlay Variables and Their Relationship to the Main Axes",
+    "depth": 1
+  },
+  {
+    "id": "sec-1-8",
+    "title": "8. How This Model Is Constructed",
+    "depth": 1
+  },
+  {
+    "id": "sec-1-9",
+    "title": "9. Institutional Stability Domain: The Intersection of the Three Low-Risk Zones",
+    "depth": 1
+  },
+  {
+    "id": "sec-1-10",
+    "title": "10. What This Model Adds Beyond Existing Left–Right Models",
+    "depth": 1
+  },
+  {
+    "id": "sec-2",
+    "title": "II. Problem Background",
+    "depth": 0
+  },
+  {
+    "id": "sec-2-1",
+    "title": "1. Minimal Definition of the Dilemma: Two Uses of One Label",
+    "depth": 1
+  },
+  {
+    "id": "sec-2-2",
+    "title": "2. 1789: “Left / Right” in the French Revolution—Legitimacy of Estates vs Legal Equality",
+    "depth": 1
+  },
+  {
+    "id": "sec-2-3",
+    "title": "3. The 19th Century: Industrialization and the “Social Question”—Class, Distribution, and Property Move Center Stage",
+    "depth": 1
+  },
+  {
+    "id": "sec-2-4",
+    "title": "4. Early 20th Century: Mass Mobilization and Extreme Experiences—“Left / Right” Shifts from Parliamentary Semantics to Camp Semantics",
+    "depth": 1
+  },
+  {
+    "id": "sec-2-5",
+    "title": "5. The Cold War: How Global Bipolarity Compressed Left–Right Semantics",
+    "depth": 1
+  },
+  {
+    "id": "sec-2-6",
+    "title": "6. Post–Cold War: Issue Expansion and “Stuffing Left / Right”—Nation, Culture, Identity, and Environment in One Container",
+    "depth": 1
+  },
+  {
+    "id": "sec-2-7",
+    "title": "7. Existing Left–Right Frameworks: Main Types and Their Problems",
+    "depth": 1
+  },
+  {
+    "id": "sec-2-8",
+    "title": "8. Chapter Summary: Three Structural Causes of the Conceptual Dilemma",
+    "depth": 1
+  },
+  {
+    "id": "sec-3",
+    "title": "III. The Three Main Axes",
+    "depth": 0
+  },
+  {
+    "id": "sec-3-1",
+    "title": "1. Economic Order Axis: From “Economic Variables” to the First Main Axis",
+    "depth": 1
+  },
+  {
+    "id": "sec-3-2",
+    "title": "2. Liberty Boundary Axis: Why the Economic Order Axis Is Not Enough",
+    "depth": 1
+  },
+  {
+    "id": "sec-3-3",
+    "title": "3. Rights Ontology Axis: Why It Has Become So Important Today",
+    "depth": 1
+  },
+  {
+    "id": "sec-3-4",
+    "title": "4. Institutional Stability Domain (ISD)",
+    "depth": 1
+  },
+  {
+    "id": "sec-3-5",
+    "title": "5. Independence and Irreducibility Between the Three Axes",
+    "depth": 1
+  },
+  {
+    "id": "sec-4",
+    "title": "IV. Overlay Variables",
+    "depth": 0
+  },
+  {
+    "id": "sec-4-1",
+    "title": "1. Definition and Criteria for Overlay Variables",
+    "depth": 1
+  },
+  {
+    "id": "sec-4-2",
+    "title": "2. Common Types of Overlay Variables",
+    "depth": 1
+  },
+  {
+    "id": "sec-4-3",
+    "title": "3. Why Overlay Variables Should Not Be Treated as Main Axes or Sub-axes",
+    "depth": 1
+  },
+  {
+    "id": "sec-4-4",
+    "title": "4. Criteria for Whether an Overlay Variable Changes Axis Positioning",
+    "depth": 1
+  },
+  {
+    "id": "sec-5",
+    "title": "V. Background Conditions and Cognitive Lens",
+    "depth": 0
+  },
+  {
+    "id": "sec-5-1",
+    "title": "1. Background Conditions",
+    "depth": 1
+  },
+  {
+    "id": "sec-5-2",
+    "title": "2. Cognitive Lens",
+    "depth": 1
+  },
+  {
+    "id": "sec-5-3",
+    "title": "3. Critical Race Theory (CRT)",
+    "depth": 1
+  },
+  {
+    "id": "sec-6",
+    "title": "VI. Classical Ideology Analysis",
+    "depth": 0
+  },
+  {
+    "id": "sec-6-1",
+    "title": "1. Analytical Principles: Ideal-Type Positioning and “-isms” as Positioned Objects",
+    "depth": 1
+  },
+  {
+    "id": "sec-6-2",
+    "title": "2. Comparison Table: Classical Ideologies on the Three Axes",
+    "depth": 1
+  },
+  {
+    "id": "sec-6-3",
+    "title": "3. Anarchism",
+    "depth": 1
+  },
+  {
+    "id": "sec-6-4",
+    "title": "4. Communism",
+    "depth": 1
+  },
+  {
+    "id": "sec-6-5",
+    "title": "5. Socialism",
+    "depth": 1
+  },
+  {
+    "id": "sec-6-6",
+    "title": "6. Democratic Socialism",
+    "depth": 1
+  },
+  {
+    "id": "sec-6-7",
+    "title": "7. Social Democracy",
+    "depth": 1
+  },
+  {
+    "id": "sec-6-8",
+    "title": "8. Communitarianism",
+    "depth": 1
+  },
+  {
+    "id": "sec-6-9",
+    "title": "9. Liberalism",
+    "depth": 1
+  },
+  {
+    "id": "sec-6-10",
+    "title": "10. Libertarianism",
+    "depth": 1
+  },
+  {
+    "id": "sec-6-11",
+    "title": "11. Capitalism",
+    "depth": 1
+  },
+  {
+    "id": "sec-6-12",
+    "title": "12. Neoliberalism",
+    "depth": 1
+  },
+  {
+    "id": "sec-6-13",
+    "title": "13. Conservatism: Treating It as a Cross-Axis Label",
+    "depth": 1
+  },
+  {
+    "id": "sec-6-14",
+    "title": "14. Fascism",
+    "depth": 1
+  },
+  {
+    "id": "sec-6-15",
+    "title": "15. Nazism: The “Far Right” Label",
+    "depth": 1
+  },
+  {
+    "id": "sec-7",
+    "title": "VII. Contemporary Ideology Analysis",
+    "depth": 0
+  },
+  {
+    "id": "sec-7-1",
+    "title": "1. Wokeism",
+    "depth": 1
+  },
+  {
+    "id": "sec-7-2",
+    "title": "2. Structural Antiracism",
+    "depth": 1
+  },
+  {
+    "id": "sec-7-3",
+    "title": "3. Feminism",
+    "depth": 1
+  },
+  {
+    "id": "sec-7-4",
+    "title": "4. Gender Politics (Common in LGBTQ Contexts)",
+    "depth": 1
+  },
+  {
+    "id": "sec-7-5",
+    "title": "5. Anti-colonialism (in Contemporary Woke Contexts)",
+    "depth": 1
+  },
+  {
+    "id": "sec-7-6",
+    "title": "6. Environmentalism",
+    "depth": 1
+  },
+  {
+    "id": "sec-7-7",
+    "title": "7. Animal Protectionism vs Anthropocentrism",
+    "depth": 1
+  },
+  {
+    "id": "sec-7-8",
+    "title": "8. Zionism",
+    "depth": 1
+  },
+  {
+    "id": "sec-8",
+    "title": "VIII. Overlay Variable Analysis",
+    "depth": 0
+  },
+  {
+    "id": "sec-8-1",
+    "title": "1. Institutional-Form Type: Direct Democracy vs Representative Democracy",
+    "depth": 1
+  },
+  {
+    "id": "sec-8-2",
+    "title": "2. Political-Community Boundary: Nationalism vs Internationalism",
+    "depth": 1
+  },
+  {
+    "id": "sec-8-3",
+    "title": "3. Legitimacy Narratives for Political Mobilization: Populism, Elitism, and Meritocracy",
+    "depth": 1
+  },
+  {
+    "id": "sec-8-4",
+    "title": "4. Hostility Narratives and Scapegoating Mechanisms: Antisemitism",
+    "depth": 1
+  },
+  {
+    "id": "sec-8-5",
+    "title": "5. Non-state Enforcement of Norms: Political Correctness",
+    "depth": 1
+  },
+  {
+    "id": "sec-8-6",
+    "title": "6. Mechanisms for Cashing Out Consequences: Cancel Culture",
+    "depth": 1
+  },
+  {
+    "id": "sec-8-7",
+    "title": "7. Identity Mobilization and Rights-Structure Recomposition: Identity Politics",
+    "depth": 1
+  },
+  {
+    "id": "sec-8-8",
+    "title": "8. Institutionalized Corrective Engineering: Diversity, Equity, and Inclusion (DEI)",
+    "depth": 1
+  },
+  {
+    "id": "sec-8-9",
+    "title": "9. A Real Conflict Under Multiple Overlay Variables: the Israel–Palestine Conflict",
+    "depth": 1
+  },
+  {
+    "id": "sec-9",
+    "title": "IX. Typical Motion Analysis",
+    "depth": 0
+  },
+  {
+    "id": "sec-9-1",
+    "title": "1. Mandating coercive public-health measures under public-health risk",
+    "depth": 1
+  },
+  {
+    "id": "sec-9-2",
+    "title": "2. Expanding normalized surveillance powers in the name of public safety",
+    "depth": 1
+  },
+  {
+    "id": "sec-9-3",
+    "title": "3. Requiring platforms to proactively remove and ban “high-risk content”",
+    "depth": 1
+  },
+  {
+    "id": "sec-9-4",
+    "title": "4. Trading higher social order for stronger policing and harsher punishment",
+    "depth": 1
+  },
+  {
+    "id": "sec-9-5",
+    "title": "5. Recognizing fetuses as rights-holders and restricting abortion",
+    "depth": 1
+  },
+  {
+    "id": "sec-9-6",
+    "title": "6. Allowing euthanasia under specified conditions",
+    "depth": 1
+  },
+  {
+    "id": "sec-9-7",
+    "title": "7. Abolishing the death penalty to absolutize the institutional boundary of the right to life",
+    "depth": 1
+  },
+  {
+    "id": "sec-9-8",
+    "title": "8. Expanding gun control to strengthen the state monopoly of violence",
+    "depth": 1
+  },
+  {
+    "id": "sec-9-9",
+    "title": "9. Shifting drug governance from criminal punishment to public-health governance",
+    "depth": 1
+  },
+  {
+    "id": "sec-9-10",
+    "title": "10. Shifting sex work from criminalization to legalization or decriminalization",
+    "depth": 1
+  },
+  {
+    "id": "sec-10",
+    "title": "X. Applications and Extensions",
+    "depth": 0
+  },
+  {
+    "id": "sec-10-1",
+    "title": "1. A “problem-decomposition language” for public discussion: decompose by axis first",
+    "depth": 1
+  },
+  {
+    "id": "sec-10-2",
+    "title": "2. A coding framework for academic research: mapping argument structure onto X/Y/Z",
+    "depth": 1
+  },
+  {
+    "id": "sec-10-3",
+    "title": "3. A coordinate system for comparative politics and historical narrative: making same-name labels comparable",
+    "depth": 1
+  },
+  {
+    "id": "sec-10-4",
+    "title": "4. An organizational governance and institutional-analysis tool: decomposing conflict into “order / boundary / ontology”",
+    "depth": 1
+  },
+  {
+    "id": "sec-10-5",
+    "title": "5. Extension I: from static positioning to dynamic trajectories (Trajectories)",
+    "depth": 1
+  },
+  {
+    "id": "sec-10-6",
+    "title": "6. Extension II: operationalization and empirical research (Operationalization)",
+    "depth": 1
+  },
+  {
+    "id": "sec-appendix",
+    "title": "Appendix",
+    "depth": 0
+  },
+  {
+    "id": "sec-appendix-1",
+    "title": "1. Terminology Quick Reference",
+    "depth": 1
+  },
+  {
+    "id": "sec-appendix-2",
+    "title": "2. Clarifying Common Misunderstandings",
+    "depth": 1
+  }
+]
