@@ -1,7 +1,7 @@
 .DS_Store
 .vscode/
 .env
-book/
+book
 temp
 *.log
 node_modules/
