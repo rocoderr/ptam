@@ -245,7 +245,7 @@ document.addEventListener("DOMContentLoaded", async () => {
     renderFixedNav(toc, lang, base, currentId, main);
   } catch (error) {
     tocEl.textContent =
-      "目录尚未生成。请先运行 node view/scripts/split_books.mjs。";
+      "目录尚未生成。请先运行 node splitBooks.mjs。";
     console.error(error);
   }
 });

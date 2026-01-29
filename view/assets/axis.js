@@ -575,7 +575,7 @@ async function main() {
     }
   } catch (error) {
     setDetail(
-      "缺少数据：请先运行 node view/scripts/split_books.mjs 生成 ideologies.extracted.json。"
+      "缺少数据：请先运行 node splitBooks.mjs 生成 ideologies.extracted.json。"
     );
     setNotice(
       "3D 数据未就绪。\n请先生成 ideologies.extracted.json 再刷新页面。"

@@ -4,4 +4,6 @@
 book/
 temp
 *.log
-node_modules
+node_modules/
+splitBooks.mjs
+AGENTS.md
